@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on [SAEINDIA NIT DURGAPUR MAIN WEBSITE](https://www.saenitdgp.com/)
 
-- 🌱 I’m currently learning **Blockchain , Nft , React Native**
+- 🌱 I’m currently learning **Machine Learning and AI,  Blockchain , Nft's**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Debshibraj123](https://github.com/Debshibraj123)
 
-- 💬 Ask me about **react, nextjs, django, nodejs**
+- 💬 Ask me about **react, nextjs, django, nodejs, blockchain , **
 
 - 📫 How to reach me **https://shibraj.netlify.app/**
 
